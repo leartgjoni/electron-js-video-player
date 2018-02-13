@@ -12,9 +12,9 @@ The application needs a folder filled with categories and movies in this pattern
 You can change the main_folder path inside index.js at MOVIES_PATH const.
 
 # Here some examples:
-![alt text](https://test_path/img.png)
-![alt text](https://test_path/img.png)
-![alt text](https://test_path/img.png)
+![alt text](https://raw.githubusercontent.com/leartgjoni/electron-js-video-player/master/examples/screen1.png)
+![alt text](https://raw.githubusercontent.com/leartgjoni/electron-js-video-player/master/examples/screen2.png)
+![alt text](https://raw.githubusercontent.com/leartgjoni/electron-js-video-player/master/examples/screen3.png)
 
 # How to run the app
 TO RUN IN DEV:
