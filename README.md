@@ -28,3 +28,5 @@ TO RUN IN PRODUCTION:
 TO PACKAGE:
 1. npm run build
 2. electron-packager project_folder_name app_name (--asar)
+
+# Don't forget to star this repo ;)
