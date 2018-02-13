@@ -1,0 +1,64 @@
+@import "bootstrap.min.css";
+
+.App{
+  text-align: center;
+}
+
+
+* { box-sizing: border-box; }
+html, body { width: 100%; height: 100%;  background: #1f323e; background: radial-gradient(80% 0%, ellipse cover, rgba(66,97,104,1) 0%,rgba(49,67,74,.1) 100%), radial-gradient(20% 100%, ellipse cover, rgba(8,13,17,1) 0%,rgba(36,58,67,1) 100%); }
+body {
+
+  font-family: 'Oswald', sans-serif;
+}
+
+.movie-title{
+  color: #faebd7;
+  font-size: 22px;
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+.movie-item{
+  margin-bottom: 20px;
+}
+
+.categories-item{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #faebd7;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.categories-head-title{
+  color: #968d81;
+  font-weight: 600;
+}
+
+.no-movies-message{
+  color: #faebd7;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.navigation-button{
+  background-color: transparent !important;
+  border: #968d81 2px solid !important;
+  color: #faebd7 !important;
+}
+
+.select-category-title{
+  color: #faebd7;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.movie-close-btn{
+  opacity: 0.4;
+}
+
+.movie-close-btn:hover{
+  opacity: 1;
+}
+
